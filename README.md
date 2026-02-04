@@ -2,6 +2,8 @@
 
 **DST Platform** — гибридная система управления содержимым (CMS) и мощный Content Management Framework (CMF) на PHP с открытым исходным кодом. Спроектирована для максимальной гибкости, производительности и масштабируемости.
 
+<img src="https://github.com/DSTGlobal/DST-Platform/blob/main/images/0.png" alt="DST Platform">
+
 Официальный сайт: [https://dstglobal.ru](https://dstglobal.ru)  
 GitHub: [https://github.com/DSTGlobal](https://github.com/DSTGlobal)
 
